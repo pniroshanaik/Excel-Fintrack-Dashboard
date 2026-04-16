@@ -5,9 +5,6 @@
 
 This project showcases an interactive financial dashboard built in Microsoft Excel to analyze income, expenses, and savings patterns. It enables users to make data-driven financial decisions using intuitive and dynamic visualizations.
 
-## 🖼 Dashboard Preview
-
-![Dashboard Preview](images/dashboard-preview.png)
 
 ## 🚀 Features
 

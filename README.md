@@ -12,12 +12,6 @@ The Excel Fintrack Dashboard is an interactive financial analysis project built 
 
 ---
 
-## 🖼 Dashboard Preview
-
-![Dashboard Preview](images/dashboard-preview.png)
-
----
-
 ## 🎯 Business Problem
 
 Organizations often struggle to identify:
